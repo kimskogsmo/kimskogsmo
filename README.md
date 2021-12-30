@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimskogsmo! I'm a 29 year old front-end/software developer. 
+- 👋 Hi, I’m @kimskogsmo! I'm a 30 year old front-end/software developer.
 - 👀 I love front-end development, design and playing guitar.
 - 🌱 Always learning something.
 - 📫 Want to get in touch? My email is the easiest way to reach me, I check it daily and always reply: kim.skogsmo@gmail.com
